@@ -40,5 +40,9 @@ After enabling the Plugin, the Project has to be restarted.
 In order for the LEDCave_Logics Content folder to be found in the Content Browser, there has to be "Show Engine Content" and "Show Plugin Content" enabled in the Content Browser Settings (the Settings are in the upper right corner of the Content Browser window).
 
 
+#TODOs
 
+Git Authentifizierung mit Auto Account nicht automatisch
+Git Install auskommentiert
+Doku über Ordnerfreigabe (Sharing, Full Permission Everyone)
 
