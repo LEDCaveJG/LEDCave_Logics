@@ -92,6 +92,10 @@
 		{
 			"Name": "SequencerPlaylists",
 			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkFreeD",
+			"Enabled": true
 		}
 	]
 }
